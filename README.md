@@ -1,6 +1,6 @@
 # W3Schools Database in Docker
 
-Forked from https://github.com/AndrejPHP/w3schools-database for academic purposes.
+Forked from https://github.com/yveseinfeldt/w3schools-database for academic purposes.
 
 This repository provides:
 
