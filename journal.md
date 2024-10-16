@@ -1,1 +1,2 @@
-14.09.2024  WSL und Docker aufgesetzt und zum laufen gebracht.
+14.09.2024  Installed WSL and Docker on Win11.
+16.10.2024  Installed WakaTime on VS Code and GitHub.
