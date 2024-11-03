@@ -70,16 +70,3 @@ When the docker container starts, it creates database named __w3schools__ with t
     suppliers
     
 and inserts the respective data. 
-
-## Features
-1. Get and list all categories
-2. Create a new category
-3. Update an existing category
-4. Delete a category
-5. Give an error message to the user when trying to delete a category that can't be deleted
-
-## Journal
-### 14.09.2024
-The project setup was quite difficult, as I am missing some linux and docker experience.
-After some try and errors and support from ChatGPT I made it finally work
-
