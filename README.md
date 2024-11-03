@@ -31,6 +31,26 @@ cd my-app
 npm start
 ```
 
+<<<<<<< HEAD
+=======
+
+## Functions
+
+1. Fetch and List existing Products
+2. Add and update Products
+3. Remove Products
+4. Filter Products
+5. Fetch and List existing Orders
+6. Add and update Orders
+7. Remove Orders
+8. Filter Orders
+9. Fetch and List existing Customers
+10. Add and update Customers
+11. Remove Customers
+12. Filter Customers
+
+
+>>>>>>> e2b3335 (Update README to reorder customer management functionalities)
 ## How to reset?
 
 Execute:

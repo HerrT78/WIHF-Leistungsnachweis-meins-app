@@ -15,7 +15,7 @@ services:
       - ./init-mysql:/docker-entrypoint-initdb.d
     ports:
       # Use non standard port to avoid clashes
-      - 3309:3306
+      - 3310:3306
 
   rest-api:
     build: ./rest-api
